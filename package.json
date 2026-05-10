@@ -1,0 +1,16 @@
+{
+  "name": "desk-pet",
+  "version": "1.0.0",
+  "description": "A desktop pet for macOS with cute animations",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  },
+  "dependencies": {
+    "robotjs": "^0.7.1"
+  }
+}
